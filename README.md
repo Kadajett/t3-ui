@@ -1,4 +1,6 @@
-# shadcn/ui
+# t3-ui 
+
+A very CVA clone of shadcn, with config files. I love the shadcn project, but I want things to be a little more convenient, and work with themes. 
 
 Accessible and customizable components that you can copy and paste into your apps. Free. Open Source. **Use this to build your own component library**.
 
